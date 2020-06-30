@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is the first bit of learning into GIT/ GITHUB/ GITLAB using 
 https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
 
@@ -10,3 +11,7 @@ Github account, Git bash installed on my machine, gotdesktop and have some respo
 Adding some omore to this file as need to repeat the git commit and push to origin as got wrong thr first time.
 
 right stae going back and forth but cannot see any "origin" branch or repository so am going to change the files, make a new one and then see if I cannot get these pushed to the repository
+=======
+# tutorial1
+online learning to use git/hub/lab etc.
+>>>>>>> 1eb21ee8402137b90113abf2908c90c2d63725c2
