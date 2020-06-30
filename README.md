@@ -7,3 +7,4 @@ Whilst this is via free code camp I did already have the following set up
 
 Github account, Git bash installed on my machine, gotdesktop and have some responsotries added to my account that I am working on (TDD) help
 
+Adding some omore to this file as need to repeat the git commit and push to origin as got wrong thr first time.
